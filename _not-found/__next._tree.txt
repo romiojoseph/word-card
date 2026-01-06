@@ -1,0 +1,2 @@
+:HL["/word-card/_next/static/chunks/47fa65e4d43b4945.css","style"]
+0:{"buildId":"ow3sfpyHEzoRgaFL7YXks","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
